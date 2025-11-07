@@ -1,4 +1,4 @@
-# pyu16decomp v2.2 (demo)
+# pyu16decomp v2.2
 pyu16decomp is a tool that converts u8/u16 ROP hex strings into readable pseudocode.
 
 ---
